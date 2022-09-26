@@ -1,4 +1,4 @@
-?php
+<?php
 echo "\033[33;1m         Halo Saya BAYU DWI DIRGANTARA            \n";
 
 echo "\033[34;1m          Dari Jurusan Teknik Informatika Universitas Tadulako\n\n";
